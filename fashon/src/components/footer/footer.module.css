@@ -1,0 +1,8 @@
+.footercontainer{
+
+    text-align: center;
+    padding: 10px 0;
+    border-top:solid 1px rgb(226, 211, 211) ;
+    width: 90%;
+    margin-top: auto;
+}

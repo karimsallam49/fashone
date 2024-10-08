@@ -1,0 +1,34 @@
+.headercontainer{
+
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerlogo{
+
+    color: inherit;
+    text-decoration: inherit;
+    font-size: 2.3rem;
+    margin: 0;
+}
+.headerlogo h1{
+
+    display: flex;
+    margin: 0;
+}
+.headerlogo h1 span{
+
+    display: block;
+    margin-right: 5px;
+}
+/* 
+.navebare-content{
+
+
+    display: flex !important;
+    justify-content: space-between !important;
+    background-color: aliceblue !important;
+
+} */

@@ -1,0 +1,24 @@
+.categor{
+
+    width: 140px;
+    height: 180px;
+}
+
+.categoryimg{
+
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    
+}
+
+.categoryimg img{
+
+    width: 100%;
+}
+.categorytite{
+
+    text-align: center;
+    font-size: 14px;
+    margin-top: 18px;
+}
